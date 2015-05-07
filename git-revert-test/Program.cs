@@ -10,6 +10,7 @@ namespace git_revert_test
         static void Main(string[] args)
         {
             Console.WriteLine("Hello");
+            Console.WriteLine("mts001 change");
         }
     }
 }
