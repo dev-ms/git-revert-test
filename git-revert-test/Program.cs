@@ -11,8 +11,6 @@ namespace git_revert_test
         {
             Console.WriteLine("Hello");
             Console.WriteLine("mts001 change");
-            Console.WriteLine("Master change");
-
         }
     }
 }
